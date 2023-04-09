@@ -5,6 +5,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio-Rodrigo&show_icons=true&theme=tokyonight)
+____
 
 #### Tecnologias que eu uso
 
@@ -24,4 +25,5 @@
 <img align="center" alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
+______
 Estou em transição de carreira da área da mecânica para a tão sonhada carreira de fullstack. Sou uma pessoa extremamente curiosa e empenhada, sempre me dedico 200% em tudo o que faço. Atualmente, estou estudando intensivamente para aprimorar minhas habilidades em TI e estou buscando ativamente oportunidades para crescer e me desenvolver nessa área.
