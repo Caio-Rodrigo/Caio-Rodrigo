@@ -1,4 +1,8 @@
 # Olá! Eu sou Caio Rodrigo 
+<div>
+<img alt="My photo" src="https://drive.google.com/file/d/19zSTMGRDajQP_Lo5bgnKJ5i6hbimWDyd/view?usp=share_link"/>
+</div>
+
 ### Contatos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-rodrigo-silva/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/caio-rodrigo)
